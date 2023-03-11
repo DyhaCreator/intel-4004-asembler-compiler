@@ -1,0 +1,6 @@
+﻿  compiller.cpp
+D:\asm-4004\compiller\compiller\compiller\compiller.cpp(252,29): warning C4244: =: преобразование "unsigned long" в "short", возможна потеря данных
+D:\asm-4004\compiller\compiller\compiller\compiller.cpp(257,29): warning C4244: =: преобразование "unsigned long" в "short", возможна потеря данных
+D:\asm-4004\compiller\compiller\compiller\compiller.cpp(304,29): warning C4244: =: преобразование "unsigned long" в "short", возможна потеря данных
+D:\asm-4004\compiller\compiller\compiller\compiller.cpp(309,29): warning C4244: =: преобразование "unsigned long" в "short", возможна потеря данных
+  compiller.vcxproj -> D:\asm-4004\compiller\compiller\x64\Debug\compiller.exe
